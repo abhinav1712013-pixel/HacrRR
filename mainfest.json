@@ -1,0 +1,15 @@
+{
+  "short_name": "Calc",
+  "name": "Glass Calculator",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#eb92be",
+  "background_color": "#ffffff"
+}
